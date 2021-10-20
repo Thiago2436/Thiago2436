@@ -12,10 +12,12 @@
   <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame">
   <img height="180em" alt=" E um Ester egg !" src="https://github-readme-stats.vercel.app/api?username=Thiago2436&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
-    </a>   
-</div>
-##
-<div>
-     ![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
- </div>    
+    </a>   <br>
+    
+</div><br>
+<p> A bad snake eating my comits, the life Snake (br joke)</p><br>
+
+![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
+
+  
 
