@@ -8,9 +8,13 @@
     E-MAIL: thiago.martins20@fatec.sp.gov.br<br>
     TWITTER: <a href="https://twitter.com/ThiagoMartins_4" target="_blank">@ThiagoMartins_4</a><br>
     LINKDIN: <a href="https://www.linkedin.com/in/thiago-martins-359852111/">thiago-martins-359852111</a><br>
-<div align="center">
-  <a href="https://github.com/Thiago2436">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago2436&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center" alt=" E um Ester egg !">
+  <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame">
+  <img height="180em" alt=" E um Ester egg !" src="https://github-readme-stats.vercel.app/api?username=Thiago2436&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
+    </a>   
 </div>
+    <div>
+     ![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
+    </div>    
 
