@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2436&label=Profile%20views&color=0e75b6&style=flat" alt="ThiagoMartins" /> </p>
 - 🔭 I’m currently working on : My Portfolio and OpenSource Projects
 - 🌱 I’m currently learning ... PHP|JAVA|JAVASCRIPT|HTML5|CSS3
 - 👯 I’m looking to collaborate on ...OpenSource Projects
