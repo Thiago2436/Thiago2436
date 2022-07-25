@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2436&label=Profile%20views&color=0e75b6&style=flat" alt="ThiagoMartins" /> </p>
-- 🔭 I’m currently working on : My Portfolio and OpenSource Projects<br>
-- 🌱 I’m currently learning ... PHP|JAVA|JAVASCRIPT|HTML5|CSS3<br>
-- 👯 I’m looking to collaborate on ...OpenSource Projects<br>
-- 🤔 I’m looking for help with ...FULL STACK WEB DEVELOPER<br>
+- 🔭 I’m currently working on : DevOps, Linux and  OpenSource Projects<br>
+- 🌱 I’m currently learning ... LINUX|DEVOPS|PHP|JAVA|JAVASCRIPT|HTML5|CSS3<br>
+- 👯 I’m looking to collaborate on ...:DEVOPS | OpenSource Projects<br>
+- 🤔 I’m looking for help with ...DEVOPS| FULL STACK WEB DEVELOPER<br>
 - 📟 How to reach me:<br> 
  <p aling="center"> 📫 E-MAIL: thiago.martins20@fatec.sp.gov.br<br>
     🐦 TWITTER: <a href="https://twitter.com/ThiagoMartins_4" target="_blank">@ThiagoMartins_4</a><br>
@@ -23,7 +23,7 @@
     <br>
    
 </div><br>
-<p> A bad snake eating my comits, the life Snake (br joke)</p><br>
+<p> A bad snake eating my commits, the life Snake (br joke)</p><br>
 
 ![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
 
