@@ -18,11 +18,7 @@
   
   <img height="180em" alt=" E um Ester egg !" src="https://github-readme-stats.vercel.app/api?username=Thiago2436&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
-     
-    <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiago2436&theme=onedark" alt="Thiago dev" /></p>
-    <br>
-   
+    
 </div><br>
 <p> A bad snake eating my commits, the life Snake (br joke)</p><br>
 
