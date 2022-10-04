@@ -12,8 +12,9 @@
     <h1> Trophy </h1>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thiago2436&theme=onedark&row=1&column=7" alt="Thiago2436" /></a> </p>
     <br>
-    <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"><h1>🐰 Ester Egg ? 🥚 </h1></a>
-<div align="center" alt=" E um Ester egg !">
+    <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> Game </a>
+ <h1>🐰 Goals? 🥚 </h1>
+   <div align="center" alt=" E um Ester egg !">
   
   <img height="180em" alt=" E um Ester egg !" src="https://github-readme-stats.vercel.app/api?username=Thiago2436&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
