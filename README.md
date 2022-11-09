@@ -8,11 +8,12 @@
  <p aling="center"> 📫 E-MAIL: thiago.martins20@fatec.sp.gov.br<br>
     🐦 TWITTER: <a href="https://twitter.com/ThiagoMartins_4" target="_blank">@ThiagoMartins_4</a><br>
     🌐 LINKDIN: <a href="https://www.linkedin.com/in/thiago-martins-359852111/">thiago-martins-359852111</a><br><br></p>
- <a href="https://thiago2436.github.io/space-shooter-dio"> 🎮 click here to play </a>
+ <a href="https://thiago2436.github.io/space-shooter-dio"> 🎮 click here to play Space Shoter Game </a><br>
+  <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> 🎮 click here to play RedJumper game  </a>
     <h1> Trophy </h1>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thiago2436&theme=onedark&row=1&column=7" alt="Thiago2436" /></a> </p>
     <br>
-    <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> Game </a>
+   
  <h1>🐰 Goals? 🥚 </h1>
    <div align="center" alt=" E um Ester egg !">
   
