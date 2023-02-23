@@ -10,8 +10,8 @@
     🌐 LINKDIN: <a href="https://www.linkedin.com/in/thiago-martins-359852111/" target="_blank"> thiago-martins-359852111 </a><br><br></p>
 # <h1> 🎮 Games made by me 🎮 </h1><br>
  <a href="https://thiago2436.github.io/space-shooter-dio"> 🎮 click here to play Space Shoter Game </a><br>
-  <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> 🎮 click here to play RedJumper game  </a>
-  <a href="https://thiago2436.github.io/SnakeGame/"> 🎮 click here to play SnakeGame </a>
+  <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> 🎮 click here to play RedJumper game  </a></br>
+  <a href="https://thiago2436.github.io/SnakeGame/"> 🎮 click here to play SnakeGame </a></br>
   <a href="https://thiago2436.github.io/PingPong/"> 🎮 click here to play Ping Pong Calssic Game </a></br>
   
   # <h1> Trophy </h1>
