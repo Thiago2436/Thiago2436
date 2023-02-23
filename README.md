@@ -1,4 +1,4 @@
-### Hi there 👋 WELCOME HERE !
+### <h1> Hi there 👋 WELCOME HERE  !</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thiago2436&label=Profile%20views&color=0e75b6&style=flat" alt="ThiagoMartins" /> </p>
 - 🔭 I’m currently working on : DevOps, Linux and  OpenSource Projects<br>
 - 🌱 I’m currently learning ... LINUX | DEVOPS | PHP | JAVA | JAVASCRIPT | HTML5 | CSS3<br>
@@ -8,13 +8,14 @@
  <p aling="center"> 📫 E-MAIL: thiago.martins20@fatec.sp.gov.br<br>
     🐦 TWITTER: <a href="https://twitter.com/ThiagoMartins_4" target="_blank">@ThiagoMartins_4</a><br>
     🌐 LINKDIN: <a href="https://www.linkedin.com/in/thiago-martins-359852111/" target="_blank"> thiago-martins-359852111 </a><br><br></p>
+    
 # <h1> 🎮 Games made by me 🎮 </h1><br>
- <a href="https://thiago2436.github.io/space-shooter-dio"> 🎮 click here to play Space Shoter Game </a><br>
-  <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> 🎮 click here to play RedJumper game  </a></br>
-  <a href="https://thiago2436.github.io/SnakeGame/"> 🎮 click here to play SnakeGame </a></br>
-  <a href="https://thiago2436.github.io/PingPong/"> 🎮 click here to play Ping Pong Calssic Game </a></br>
+ <a href="https://thiago2436.github.io/space-shooter-dio"> 🎮 click here to play Space Shoter Game 🔫 </a><br>
+  <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> 🎮 click here to play RedJumper game 🐎 </a></br>
+  <a href="https://thiago2436.github.io/SnakeGame/"> 🎮 click here to play SnakeGame 🐍 </a></br>
+  <a href="https://thiago2436.github.io/PingPong/"> 🎮 click here to play Ping Pong Calssic Game 🏓 </a></br>
   
-  # <h1> Trophy </h1>
+  # <h1> Trophy </h1><br>
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thiago2436&theme=onedark&row=1&column=7" alt="Thiago2436" /></a> </p>
    <br>
    
