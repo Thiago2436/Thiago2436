@@ -29,9 +29,10 @@
 <p> A bad snake eating my commits, the life Snake (br joke)</p><br>
 
 ![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
-
-sudo su 
-apt update && apt full-upgrade -y && snap install kubectl --classic && snap install helm --classic && curl -sfL https://get.k3s.io | sh - && export KUBECONFIG=/etc/rancher/k3s/k3s.yaml && kubectl get nodes -o wide && kubectl get ns -o wide && kubectl get svc --all-namespaces -o wide
+ <br>
+ <h2> comando para criar cluster rapido </h2><br>
+<code> sudo su 
+apt update && apt full-upgrade -y && snap install kubectl --classic && snap install helm --classic && curl -sfL https://get.k3s.io | sh - && export KUBECONFIG=/etc/rancher/k3s/k3s.yaml && kubectl get nodes -o wide && kubectl get ns -o wide && kubectl get svc --all-namespaces -o wide </code>
 
   
 
