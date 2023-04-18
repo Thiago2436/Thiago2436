@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...: DEVOPS | OpenSource Projects<br>
 - 🤔 I’m looking for help with ...DEVOPS | FULL STACK WEB DEVELOPER<br><br>
 - 📟 How to reach me:<br><br>
- <p aling="center"> 📫 E-MAIL: thiago.martins20@fatec.sp.gov.br<br>
+ <p aling="center"> 📫 E-MAIL: thiago.martins20@fatec.sp.gov.br and thiagomartins.florestal@gmail.com <br>
     🐦 TWITTER: <a href="https://twitter.com/ThiagoMartins_4" target="_blank">@ThiagoMartins_4</a><br>
     🌐 LINKDIN: <a href="https://www.linkedin.com/in/thiago-martins-359852111/" target="_blank"> thiago-martins-359852111 </a><br><br></p>
     
