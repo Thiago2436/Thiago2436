@@ -28,7 +28,7 @@
 </div><br>
 <p> A bad snake eating my commits, the life Snake (br joke)</p><br>
 
-![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
+
  <br>
  <h2> comando para criar cluster rapido </h2><br>
 <code> sudo su </code> <br>
