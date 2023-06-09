@@ -23,15 +23,15 @@
    <div align="center" alt="Programing languages">
   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
-    <p> Roff : Like the LaTeX language, roff is a text formatting language based on a markup system. Its lightness (makes texts very light), the fact that it is interpreted (unlike LaTeX which is compiled) make roff a very popular language in the UNIX world and its derivatives (*BSD, Linux, etc.). It is used in particular for formatting manual pages. It has its staunch followers (like Andrew Tanenbaum), who prefer it:
-
-wysiwyg-like word processing software;
-     other text formatting languages, starting with LaTeX.</p>
- <p> Java: is a programming language and computing platform first released by Sun Microsystems in 1995. From humble beginnings, it has evolved into a major player in today's digital world, providing the trusted platform on which many services and applications are developed. </p>
- <p> JavaScript: is a programming language used by developers to make interactive web pages. JavaScript functions can improve the user experience when navigating a website, for example, from updating the feed on the social media page to displaying animations and interactive maps. As a client-side scripting language, it is one of the core technologies of the World Wide Web. For example, when browsing the Internet, it is possible to view at any time an image carousel, a “click to view” drop-down menu or even dynamically change the colors of elements on a web page. All this thanks to JavaScript.</p>
+    <p> #Roff : 
+     Like the LaTeX language, roff is a text formatting language based on a markup system. Its lightness (makes texts very light), the fact that it is interpreted (unlike LaTeX which is compiled) make roff a very popular language in the UNIX world and its derivatives (*BSD, Linux, etc.). It is used in particular for formatting manual pages. It has its staunch followers (like Andrew Tanenbaum)</p>
+ <p> #Java: 
+  is a programming language and computing platform first released by Sun Microsystems in 1995. From humble beginnings, it has evolved into a major player in today's digital world, providing the trusted platform on which many services and applications are developed. </p>
+ <p> #JavaScript: 
+  is a programming language used by developers to make interactive web pages. JavaScript functions can improve the user experience when navigating a website, for example, from updating the feed on the social media page to displaying animations and interactive maps. As a client-side scripting language, it is one of the core technologies of the World Wide Web. For example, when browsing the Internet, it is possible to view at any time an image carousel, a “click to view” drop-down menu or even dynamically change the colors of elements on a web page. All this thanks to JavaScript.</p>
  
 </div><br>
-<p> Commits and Activities </p><br>
+#<h1><p> Commits and Activities </p><br></h1>
 
  ![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
 
