@@ -19,8 +19,8 @@
    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Thiago2436&theme=onedark&row=1&column=7" alt="Thiago2436" /></a> </p>
    <br>
    
- <h1> Goals!  </h1>
-   <div align="center" alt="Programing languages">
+ <h1> Languages most used by me  </h1>
+   <div align="rigth" alt="Programing languages">
   
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
  <p> <h3>#Roff</h3> : 
@@ -32,7 +32,7 @@
  
 </div><br>
 
-<h1><p> #Commits and Activities </p><br></h1>
+<h1><p> Commits and Activities </p><br></h1>
 
  ![Snake animation](https://github.com/Thiago2436/Thiago2436/blob/output/github-contribution-grid-snake.svg)
 
