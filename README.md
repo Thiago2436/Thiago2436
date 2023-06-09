@@ -20,10 +20,9 @@
    <br>
    
  <h1> Goals!  </h1>
-   <div align="center" alt=" E um Ester egg !">
+   <div align="center" alt="Programing languages">
   
-  <img height="180em" alt=" E um Ester egg !" src="https://github-readme-stats.vercel.app/api?username=Thiago2436&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago2436&layout=compact&langs_count=7&theme=dark"/>
     
 </div><br>
 <p> A bad snake eating my commits, the life Snake (br joke)</p><br>
