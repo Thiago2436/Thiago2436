@@ -10,6 +10,7 @@
     🌐 LINKDIN: <a href="https://www.linkedin.com/in/thiago-martins-359852111/" target="_blank"> thiago-martins-359852111 </a><br><br></p>
     
 # <h1> 🎮 Games made by me 🎮 </h1><br>
+> Games made in JavaScript HTML and CSS 
  <a href="https://thiago2436.github.io/space-shooter-dio"> 🎮 click here to play Space Shoter Game 🔫 </a><br>
   <a href="https://thiago2436.github.io/REDJUMPER/R.E.D%20t%20Jumpergame"> 🎮 click here to play RedJumper game 🐎 </a></br>
   <a href="https://thiago2436.github.io/SnakeGame/"> 🎮 click here to play SnakeGame 🐍 </a></br>
